@@ -1,16 +1,19 @@
 # JieBao Sports
 
-JieBao Sports is dedicated to promoting professional and safe extreme sports equipment, so that people can efficiently purchase the best sports equipment in their daily life. It is a shopping mall for sports goods. Sports fans can find various professional and high-quality sports equipment on our app.
+JieBao Sports is committed to promoting professional, safe and high-quality extreme sports products, so that people can efficiently purchase their satisfactory extreme sports products in their daily life.
 
-Our app shows a full range of sports equipment, including football, basketball, jersey, bag, outdoor sports equipment, running equipment, cycling equipment and other sports equipment. These categories of complete sporting goods can meet the user's choice and purchase.
+- Our app is a shopping mall for extreme sports equipment. Fans of extreme sports can find all kinds of professional and high-quality extreme sports equipment on our app.
 
-Our app has classified these sporting goods in great detail, which helps users to quickly find the sporting goods they want to buy.
+- Our app shows a full range of extreme sports equipment, including cycling equipment, skateboarding, roller skating, sports protection, climbing equipment, skiing equipment and other extreme sports equipment. These categories of complete extreme sports equipment can meet the user's choice and purchase.
 
-Our APP also introduces each product in detail, so that you can fully understand these products, find your favorite sports supplies, convenient for you to purchase and place orders.
+- Our app has classified these extreme sports equipment in great detail, which helps users to quickly find the extreme sports equipment they want to buy.
 
-Our app also has the commodity collection function, which allows you to collect your favorite sports supplies into the collection list, so that you can browse and place orders next time. At the same time, our app also has the function of commodity sharing, which allows you to share sporting goods with others that you think are of good quality.
+- Our APP also introduces each product in detail, so that you can fully understand these products, find your favorite extreme sports equipment, and facilitate you to purchase and place orders.
 
+- Our app also has the commodity collection function, which allows you to collect your favorite extreme sports equipment into the collection list, so that you can browse and place orders next time. At the same time, our app also has the function of commodity sharing, which allows you to share with others the extreme sports equipment you think is of good quality.
 
-Combine body and mind, enjoy sports and live a healthy life!
+- Our app also offers the function of purchasing products with coupons. You can find the products that can be purchased with coupons on our welfare page, and the coupon purchase is more favorable, so that you can purchase the best quality extreme sports equipment at the most favorable price.
 
-If you have any questions, please contact us as follows :ys54399@21cn.com
+Professional extreme sports equipment allows you to challenge the limit to release yourself!
+
+If you have any questions, please contact us as follows :w1113096582@163.com
