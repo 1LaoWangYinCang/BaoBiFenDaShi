@@ -1,4 +1,4 @@
-# JieBao Sports
+# TiTan
 
 JieBao Sports is committed to promoting professional, safe and high-quality extreme sports products, so that people can efficiently purchase their satisfactory extreme sports products in their daily life.
 
