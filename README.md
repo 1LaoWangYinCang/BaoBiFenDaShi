@@ -1,16 +1,17 @@
-# JingJiBao
+# ReJingJi
 
-JingJiBao is committed to promoting handsome and fashionable esports accessories, so that people can efficiently buy their satisfactory esports accessories in their daily life. Our app is a shopping mall for fashionable esports peripheral clothing. Esports enthusiasts can find the coolest and most fashionable esports peripheral clothing on our app.
+ReJingJi is committed to promoting professional and comfortable eseo furniture, so that people can efficiently and high quality buy eseo furniture they are satisfied with in daily life.
 
-Our app shows a full range of esports peripherals, including esports T-shirts, esports hats, esports backpacks, esports pants, esports peripherals shorts and other accessories. These complete categories of esports peripheral apparel can meet the user's selection and purchase.
+Our app is a shopping mall for cool e-sports furniture. E-sports fans can find the coolest and most comfortable e-sports furniture on our app.
 
-Our app has made a very detailed classification of these esports peripheral clothing, which helps users to quickly find the esports peripheral clothing they want to buy.
+Our app shows a full range of esports furniture, including esports table, esports chair, ESports sofa, esports space capsule, esports furnace-furnating parts, etc. These categories of complete e-sports furniture can meet the user's choice and purchase.
 
-Our APP also introduces each product in detail, so that you can fully understand these products, find your favorite esports peripheral clothing, so that you can purchase and place orders.
+Our app has made a very detailed classification of these esports furniture, which helps users to quickly find the esports furniture they want to buy.
 
-Our app also has the function of commodity collection, which allows you to collect your favorite esports costumes into the collection list, so that you can browse and place orders next time.
+Our APP also introduces each product in detail, so that you can fully understand these products, find your favorite esports furniture, so that you can purchase and place orders.
 
-Wear cool esports peripheral clothing to become esports fashion people!
+Our app also has the function of commodity collection, you can collect your favorite esports furniture into the collection list, so that you can browse and place orders next time.
 
+Popular e-sports furniture allows you to enjoy life, taste wonderful!
 
-If you have any questions, please contact us as follows : w1113096582@163.com:
+If you have any questions, please contact us as follows : mizhuigushi752@163.com
