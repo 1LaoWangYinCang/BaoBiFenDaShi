@@ -1,17 +1,15 @@
-# ReJingJi
+# Toutiao Sports station
 
-ReJingJi is committed to promoting professional and comfortable eseo furniture, so that people can efficiently and high quality buy eseo furniture they are satisfied with in daily life.
+Toutiao Sports station is committed to promoting professional, safe and high-quality extreme sports equipment, so that people can efficiently buy the best extreme sports equipment in their daily life.
 
-Our app is a shopping mall for cool e-sports furniture. E-sports fans can find the coolest and most comfortable e-sports furniture on our app.
+- Our app shows a full range of extreme sports equipment, including outdoor sports equipment, running equipment, snorkeling equipment, mountaineering equipment, cycling equipment and other sports equipment. These categories of complete extreme sports equipment can meet the user's choice and purchase.
 
-Our app shows a full range of esports furniture, including esports table, esports chair, ESports sofa, esports space capsule, esports furnace-furnating parts, etc. These categories of complete e-sports furniture can meet the user's choice and purchase.
+- Our app has classified these extreme sports equipment in great detail, which helps users to quickly find the extreme sports equipment they want to buy.
 
-Our app has made a very detailed classification of these esports furniture, which helps users to quickly find the esports furniture they want to buy.
+- Our APP also introduces each product in detail, so that you can fully understand these products, find your favorite extreme sports equipment, and facilitate you to purchase and place orders.
 
-Our APP also introduces each product in detail, so that you can fully understand these products, find your favorite esports furniture, so that you can purchase and place orders.
+- Our app also has the function of commodity collection. Your favorite extreme sports equipment can be collected into the collection list, so that you can browse and place orders next time.
 
-Our app also has the function of commodity collection, you can collect your favorite esports furniture into the collection list, so that you can browse and place orders next time.
+Professional sports equipment to let you go beyond the limits of happy sports!
 
-Popular e-sports furniture allows you to enjoy life, taste wonderful!
-
-If you have any questions, please contact us as follows : mizhuigushi752@163.com
+If you have any questions, please contact us as follows : qingdaokaifazhe@163.com
