@@ -1,17 +1,11 @@
-# XiGuaTiYuDaKa
+# ReJingJi
 
-XiGuaTiYuDaKa is a shopping mall for extreme sports supplies. Extreme sports fans can find various professional and high-quality extreme sports equipment on our app, and learn various extreme sports skills and rules, thus becoming great sports shops.
+ReJingJi is a shopping mall for clothing around e-sports. We launched the esports surrounding handsome fashion, you deserve to have. Our APP is dedicated to promoting fashionable esports peripheral apparel, so that people can efficiently and high-quality purchase esports peripheral products they need in their daily life.
 
-- Our APP is dedicated to promoting professional and safe extreme sports equipment, so that people can efficiently purchase the best extreme sports equipment in their daily life.
+Our app shows a full range of esports accessories, including esports hats, Esports T-shirts, esports backpacks, esports pants and esports accessories. These categories of complete esports peripheral users can meet the selection and procurement. Our app has made a very detailed classification of these esports apparel, which helps users quickly find the peripheral apparel they want to buy.
 
-- Our app shows a full range of extreme sports equipment, including mountaineering and climbing equipment, surfing and snorkeling equipment, roller skating equipment, outdoor sports equipment, running equipment and other extreme sports equipment. These categories of complete extreme sports equipment can meet the user's choice and purchase.
+Our app also has the function of commodity collection. Your favorite esports costumes can be collected in the collection list for your next order. Our APP gives a detailed and careful introduction to each product, so that you can fully understand these products, find your favorite esports costumes, and make it convenient for you to purchase and place orders.
 
-- Our app has classified these extreme sports equipment in great detail, which helps users to quickly find the extreme sports equipment they want to buy.
+Wearing esports style clothing makes you a esports trendsetter
 
-- Our app also has the function of commodity collection. Your favorite sports equipment can be collected into the collection list, which is convenient for you to browse and place orders next time.
-
-- Our app also gives a detailed introduction to the rules and techniques of various extreme sports. You can learn these techniques and become a sports expert.
-
-Professional extreme sports equipment to make you a sports buff!
-
-If you have any questions, please contact us as follows : hbeilijj@163.com
+If you have any questions, please contact us as follows : wlllt0@163.com
