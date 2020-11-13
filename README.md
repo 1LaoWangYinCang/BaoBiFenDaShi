@@ -1,11 +1,13 @@
-# ReJingJi
+# BaoBiFenDaShi
 
-ReJingJi is a shopping mall for clothing around e-sports. We launched the esports surrounding handsome fashion, you deserve to have. Our APP is dedicated to promoting fashionable esports peripheral apparel, so that people can efficiently and high-quality purchase esports peripheral products they need in their daily life.
+BaoBiFenDaShi is an APP for purchasing hockey equipment and recording scores. It is dedicated to promoting the sport of hockey, so that people can efficiently buy professional hockey equipment in their daily lives and easily record the records and scores of hockey matches.
 
-Our app shows a full range of esports accessories, including esports hats, Esports T-shirts, esports backpacks, esports pants and esports accessories. These categories of complete esports peripheral users can meet the selection and procurement. Our app has made a very detailed classification of these esports apparel, which helps users quickly find the peripheral apparel they want to buy.
+Our app has a live score recording function, you can record the score and details of the game, record every hockey game you like, record the tense and exciting state at that time, record every victory, and share the record of the game.
 
-Our app also has the function of commodity collection. Your favorite esports costumes can be collected in the collection list for your next order. Our APP gives a detailed and careful introduction to each product, so that you can fully understand these products, find your favorite esports costumes, and make it convenient for you to purchase and place orders.
+Our app has classified these hockey equipment in great detail, which helps users to quickly find the hockey equipment they want to buy.
 
-Wearing esports style clothing makes you a esports trendsetter
+Our app shows a full range of hockey equipment, including hockey protective gear, helmet, hockey training equipment, hockey sticks, hockey clothing, hockey shoes and other hockey equipment. These categories of complete hockey equipment can meet the user's selection and purchase.
 
-If you have any questions, please contact us as follows : wlllt0@163.com
+Buy the equipment, record the victory, happy hockey!
+
+If you have any questions, please contact us as follows : jjx19561022@icloud.com
