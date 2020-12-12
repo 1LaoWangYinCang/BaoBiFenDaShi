@@ -1,13 +1,8 @@
-# BaoBiFenDaShi
+# Bitcoin Information Center
+Bitcoin Information Center has the hottest digital currency news and real-time information, which makes it convenient for users to timely understand the major events in the currency circle, comment on these information articles, express their own opinions, and share their favorite articles. At the same time, they can also express their opinions in the community and communicate with others.
 
-BaoBiFenDaShi is an APP for purchasing hockey equipment and recording scores. It is dedicated to promoting the sport of hockey, so that people can efficiently buy professional hockey equipment in their daily lives and easily record the records and scores of hockey matches.
+Our app can also easily Book Lectures on digital currency and learn about bitcoin. It also shows a variety of digital currency market information, so that digital currency enthusiasts better understand the market changes.
 
-Our app has a live score recording function, you can record the score and details of the game, record every hockey game you like, record the tense and exciting state at that time, record every victory, and share the record of the game.
+Bitcoin Information Center provides you with a platform for learning, communication and sharing.
 
-Our app has classified these hockey equipment in great detail, which helps users to quickly find the hockey equipment they want to buy.
-
-Our app shows a full range of hockey equipment, including hockey protective gear, helmet, hockey training equipment, hockey sticks, hockey clothing, hockey shoes and other hockey equipment. These categories of complete hockey equipment can meet the user's selection and purchase.
-
-Buy the equipment, record the victory, happy hockey!
-
-If you have any questions, please contact us as follows : jjx19561022@icloud.com
+If you have any questions, please contact us as follows : mysliezwvbix@hotmail.com
